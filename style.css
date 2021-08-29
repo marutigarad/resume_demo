@@ -1,0 +1,86 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background-color: rgb(235 239 239);
+}
+.maruti_img{
+	width: 130px;
+	height:150px;
+	border-radius: 45%;
+}
+.head{
+	#border-bottom: 1px solid black;
+}
+i{
+	padding: 5px;
+}
+b{
+	font-size: 14px;
+}
+.objective{
+	padding-top: 10px;
+}
+.about{
+	padding: 10px;
+}
+.lpart {
+	padding: 20px;
+}
+.rpart{
+	margin-left	: 20px;
+}
+.line{
+	border-bottom: solid 2px black;
+}
+h6{
+	text-decoration-style: solid;
+}
+.edu{
+	padding-left:10px;
+}
+.lab{
+
+	background-color: skyblue;
+	#border: 2px solid black;
+	width: 70px;
+	height: 30px;
+	border-radius: 30px;
+	text-align: center;
+}
+.fa-star{
+	color: gold;
+	margin-left: 20px;
+}
+.lang{
+	padding-left: 20px;
+}
+.lab1{
+
+	background-color: skyblue;
+	#border: 1px solid black;
+	padding-top: 0px;
+	border-radius: 30px;
+	text-align: center;
+}
+.lab2{
+
+	background-color: skyblue;
+	#border: 1px solid black;
+	padding-top: 0px;
+	border-radius: 30px;
+	width: 300px;
+	text-align: center;
+}
+.dot{
+	border-bottom: dotted 1px black;
+}
+.li{
+	margin-left: 20px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
